@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Zlib_OBJLIB_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/Zlib_OBJLIB_autogen.dir/ParseCache.txt"
+  "Zlib_OBJLIB_autogen"
+  "CMakeFiles/Zlib_OBJLIB.dir/Zlib_OBJLIB_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/Zlib_OBJLIB_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/Zlib_OBJLIB.dir/adler32.c.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/adler32.c.obj.d"
+  "CMakeFiles/Zlib_OBJLIB.dir/compress.c.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/compress.c.obj.d"
+  "CMakeFiles/Zlib_OBJLIB.dir/crc32.c.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/crc32.c.obj.d"
+  "CMakeFiles/Zlib_OBJLIB.dir/deflate.c.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/deflate.c.obj.d"
+  "CMakeFiles/Zlib_OBJLIB.dir/gzclose.c.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/gzclose.c.obj.d"
+  "CMakeFiles/Zlib_OBJLIB.dir/gzlib.c.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/gzlib.c.obj.d"
+  "CMakeFiles/Zlib_OBJLIB.dir/gzread.c.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/gzread.c.obj.d"
+  "CMakeFiles/Zlib_OBJLIB.dir/gzwrite.c.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/gzwrite.c.obj.d"
+  "CMakeFiles/Zlib_OBJLIB.dir/infback.c.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/infback.c.obj.d"
+  "CMakeFiles/Zlib_OBJLIB.dir/inffast.c.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/inffast.c.obj.d"
+  "CMakeFiles/Zlib_OBJLIB.dir/inflate.c.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/inflate.c.obj.d"
+  "CMakeFiles/Zlib_OBJLIB.dir/inftrees.c.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/inftrees.c.obj.d"
+  "CMakeFiles/Zlib_OBJLIB.dir/trees.c.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/trees.c.obj.d"
+  "CMakeFiles/Zlib_OBJLIB.dir/uncompr.c.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/uncompr.c.obj.d"
+  "CMakeFiles/Zlib_OBJLIB.dir/zutil.c.obj"
+  "CMakeFiles/Zlib_OBJLIB.dir/zutil.c.obj.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/Zlib_OBJLIB.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

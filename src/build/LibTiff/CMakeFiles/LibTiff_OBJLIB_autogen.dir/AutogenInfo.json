@@ -1,0 +1,370 @@
+{
+	"BUILD_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibTiff/LibTiff_OBJLIB_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibTiff",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff",
+	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/t4.h",
+			"MU",
+			"EWIEGA46WW/moc_t4.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_config.h",
+			"MU",
+			"EWIEGA46WW/moc_tif_config.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_dir.h",
+			"MU",
+			"EWIEGA46WW/moc_tif_dir.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_fax3.h",
+			"MU",
+			"EWIEGA46WW/moc_tif_fax3.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_predict.h",
+			"MU",
+			"EWIEGA46WW/moc_tif_predict.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tiff.h",
+			"MU",
+			"EWIEGA46WW/moc_tiff.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tiffconf.h",
+			"MU",
+			"EWIEGA46WW/moc_tiffconf.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tiffio.h",
+			"MU",
+			"EWIEGA46WW/moc_tiffio.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tiffio.hxx",
+			"MU",
+			"EWIEGA46WW/moc_tiffio_hxx.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tiffiop.h",
+			"MU",
+			"EWIEGA46WW/moc_tiffiop.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tiffvers.h",
+			"MU",
+			"EWIEGA46WW/moc_tiffvers.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/uvcode.h",
+			"MU",
+			"EWIEGA46WW/moc_uvcode.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibTiff/LibTiff_OBJLIB_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibTiff/LibTiff_OBJLIB_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"AVOID_WIN32_FILEIO=1",
+		"CCITT_SUPPORT=1",
+		"CHECK_JPEG_YCBCR_SUBSAMPLING=1",
+		"DEFAULT_EXTRASAMPLE_AS_ALPHA=1",
+		"FILLODER_LSB2MSB=1",
+		"LOGLUV_SUPPORT=1",
+		"LZW_SUPPORT=1",
+		"MINGW_HAS_SECURE_API=1",
+		"NEXT_SUPPORT=1",
+		"PACKBITS_SUPPORT=1",
+		"PIXARLOG_SUPPORT=1",
+		"QTEXTEXTRACTION_LIB",
+		"QT_CORE_LIB",
+		"QT_NO_DEBUG",
+		"STRIPCHOP_DEFAULT=TIFF_STRIPCHOP",
+		"STRIP_SIZE_DEFAULT=8192",
+		"THUNDER_SUPPORT=1",
+		"TIF_PLATFORM_CONSOLE=1",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"ZIP_SUPPORT=1",
+		"_CRT_SECURE_NO_DEPRECATE=1",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibTiff",
+		"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff",
+		"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib",
+		"C:/Qt/6.3.1/mingw_64/include/QtCore",
+		"C:/Qt/6.3.1/mingw_64/include",
+		"C:/Qt/6.3.1/mingw_64/mkspecs/win32-g++",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed",
+		"C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_GADGET_EXPORT",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Qt/Tools/mingw1120_64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibTiff/LibTiff_OBJLIB_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibTiff/CMakeFiles/LibTiff_OBJLIB_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.3.1/mingw_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 3,
+	"SETTINGS_FILE" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibTiff/CMakeFiles/LibTiff_OBJLIB_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_aux.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_close.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_codec.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_color.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_compress.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_dir.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_dirinfo.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_dirread.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_dirwrite.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_dumpmode.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_error.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_extension.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_fax3.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_fax3sm.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_flush.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_getimage.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_jbig.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_jpeg.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_luv.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_lzw.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_next.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_ojpeg.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_open.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_packbits.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_pixarlog.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_predict.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_print.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_read.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_stream.cxx",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_strip.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_swab.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_thunder.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_tile.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_unix.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_version.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_warning.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_write.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibTiff/tif_zip.c",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

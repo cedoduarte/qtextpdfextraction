@@ -1,0 +1,2 @@
+C:\Qt\Tools\mingw1120_64\bin\ar.exe qc libLibAesgm.a CMakeFiles/LibAesgm.dir/LibAesgm_autogen/mocs_compilation.cpp.obj CMakeFiles/LibAesgm_OBJLIB.dir/LibAesgm_OBJLIB_autogen/mocs_compilation.cpp.obj CMakeFiles/LibAesgm_OBJLIB.dir/aescrypt.c.obj CMakeFiles/LibAesgm_OBJLIB.dir/aeskey.c.obj CMakeFiles/LibAesgm_OBJLIB.dir/aes_modes.c.obj CMakeFiles/LibAesgm_OBJLIB.dir/aes_ni.c.obj CMakeFiles/LibAesgm_OBJLIB.dir/aestab.c.obj
+C:\Qt\Tools\mingw1120_64\bin\ranlib.exe libLibAesgm.a

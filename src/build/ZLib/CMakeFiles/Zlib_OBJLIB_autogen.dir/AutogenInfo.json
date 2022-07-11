@@ -1,0 +1,235 @@
+{
+	"BUILD_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/ZLib/Zlib_OBJLIB_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/ZLib",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib",
+	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/CMakeLists.txt",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CheckIncludeFile.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CheckIncludeFile.c.in"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/crc32.h",
+			"MU",
+			"EWIEGA46WW/moc_crc32.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/deflate.h",
+			"MU",
+			"EWIEGA46WW/moc_deflate.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/gzguts.h",
+			"MU",
+			"EWIEGA46WW/moc_gzguts.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/inffast.h",
+			"MU",
+			"EWIEGA46WW/moc_inffast.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/inffixed.h",
+			"MU",
+			"EWIEGA46WW/moc_inffixed.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/inflate.h",
+			"MU",
+			"EWIEGA46WW/moc_inflate.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/inftrees.h",
+			"MU",
+			"EWIEGA46WW/moc_inftrees.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/trees.h",
+			"MU",
+			"EWIEGA46WW/moc_trees.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/zconf.h",
+			"MU",
+			"EWIEGA46WW/moc_zconf.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/zlib.h",
+			"MU",
+			"EWIEGA46WW/moc_zlib.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/zutil.h",
+			"MU",
+			"EWIEGA46WW/moc_zutil.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/ZLib/Zlib_OBJLIB_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/ZLib/Zlib_OBJLIB_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"HAVE_UNISTD_H=1",
+		"MINGW_HAS_SECURE_API=1",
+		"QTEXTEXTRACTION_LIB",
+		"QT_CORE_LIB",
+		"QT_NO_DEBUG",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/ZLib",
+		"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib",
+		"C:/Qt/6.3.1/mingw_64/include/QtCore",
+		"C:/Qt/6.3.1/mingw_64/include",
+		"C:/Qt/6.3.1/mingw_64/mkspecs/win32-g++",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed",
+		"C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_GADGET_EXPORT",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Qt/Tools/mingw1120_64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/ZLib/Zlib_OBJLIB_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/ZLib/CMakeFiles/Zlib_OBJLIB_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.3.1/mingw_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 3,
+	"SETTINGS_FILE" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/ZLib/CMakeFiles/Zlib_OBJLIB_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/adler32.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/compress.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/crc32.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/deflate.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/gzclose.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/gzlib.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/gzread.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/gzwrite.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/infback.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/inffast.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/inflate.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/inftrees.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/trees.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/uncompr.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/ZLib/zutil.c",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

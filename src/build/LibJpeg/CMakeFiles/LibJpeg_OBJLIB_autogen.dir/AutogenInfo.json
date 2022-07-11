@@ -1,0 +1,375 @@
+{
+	"BUILD_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibJpeg/LibJpeg_OBJLIB_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibJpeg",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg",
+	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jconfig.h",
+			"MU",
+			"EWIEGA46WW/moc_jconfig.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdct.h",
+			"MU",
+			"EWIEGA46WW/moc_jdct.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jerror.h",
+			"MU",
+			"EWIEGA46WW/moc_jerror.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jinclude.h",
+			"MU",
+			"EWIEGA46WW/moc_jinclude.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jmemsys.h",
+			"MU",
+			"EWIEGA46WW/moc_jmemsys.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jmorecfg.h",
+			"MU",
+			"EWIEGA46WW/moc_jmorecfg.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jpegint.h",
+			"MU",
+			"EWIEGA46WW/moc_jpegint.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jpeglib.h",
+			"MU",
+			"EWIEGA46WW/moc_jpeglib.cpp",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jversion.h",
+			"MU",
+			"EWIEGA46WW/moc_jversion.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibJpeg/LibJpeg_OBJLIB_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibJpeg/LibJpeg_OBJLIB_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MINGW_HAS_SECURE_API=1",
+		"QTEXTEXTRACTION_LIB",
+		"QT_CORE_LIB",
+		"QT_NO_DEBUG",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibJpeg",
+		"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg",
+		"C:/Qt/6.3.1/mingw_64/include/QtCore",
+		"C:/Qt/6.3.1/mingw_64/include",
+		"C:/Qt/6.3.1/mingw_64/mkspecs/win32-g++",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed",
+		"C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_GADGET_EXPORT",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Qt/Tools/mingw1120_64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibJpeg/LibJpeg_OBJLIB_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibJpeg/CMakeFiles/LibJpeg_OBJLIB_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.3.1/mingw_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 3,
+	"SETTINGS_FILE" : "C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/build/LibJpeg/CMakeFiles/LibJpeg_OBJLIB_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jaricom.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jcapimin.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jcapistd.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jcarith.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jccoefct.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jccolor.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jcdctmgr.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jchuff.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jcinit.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jcmainct.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jcmarker.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jcmaster.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jcomapi.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jcparam.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jcprepct.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jcsample.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jctrans.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdapimin.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdapistd.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdarith.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdatadst.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdatasrc.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdcoefct.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdcolor.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jddctmgr.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdhuff.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdinput.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdmainct.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdmarker.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdmaster.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdmerge.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdpostct.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdsample.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jdtrans.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jerror.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jfdctflt.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jfdctfst.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jfdctint.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jidctflt.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jidctfst.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jidctint.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jmemmgr.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jmemnobs.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jquant1.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jquant2.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/carlo/Documents/SoftwareProjects/pdf-text-extraction/LibJpeg/jutils.c",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

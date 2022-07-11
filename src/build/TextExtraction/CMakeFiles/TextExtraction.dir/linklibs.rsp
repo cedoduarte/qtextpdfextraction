@@ -1,0 +1,1 @@
+ ../PDFWriter/libPDFWriter.a ../LibAesgm/libLibAesgm.a ../FreeType/libFreeType.a ../LibJpeg/libLibJpeg.a ../ZLib/libZlib.a ../LibTiff/libLibTiff.a ../LibPng/libLibPng.a ../ZLib/libZlib.a C:/Qt/6.3.1/mingw_64/lib/libQt6Core.a -lmpr -luserenv -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

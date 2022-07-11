@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/TextExtraction_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/TextExtraction_autogen.dir/ParseCache.txt"
+  "TextExtraction_autogen"
+  "CMakeFiles/TextExtraction.dir/TextExtraction.cpp.obj"
+  "CMakeFiles/TextExtraction.dir/TextExtraction.cpp.obj.d"
+  "CMakeFiles/TextExtraction.dir/TextExtraction_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/TextExtraction.dir/TextExtraction_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/TextExtraction.dir/lib/bidi/BidiConversion.cpp.obj"
+  "CMakeFiles/TextExtraction.dir/lib/bidi/BidiConversion.cpp.obj.d"
+  "CMakeFiles/TextExtraction.dir/lib/font-translation/Encoding.cpp.obj"
+  "CMakeFiles/TextExtraction.dir/lib/font-translation/Encoding.cpp.obj.d"
+  "CMakeFiles/TextExtraction.dir/lib/font-translation/FontDecoder.cpp.obj"
+  "CMakeFiles/TextExtraction.dir/lib/font-translation/FontDecoder.cpp.obj.d"
+  "CMakeFiles/TextExtraction.dir/lib/font-translation/StandardFontsDimensions.cpp.obj"
+  "CMakeFiles/TextExtraction.dir/lib/font-translation/StandardFontsDimensions.cpp.obj.d"
+  "CMakeFiles/TextExtraction.dir/lib/interpreter/PDFInterpreter.cpp.obj"
+  "CMakeFiles/TextExtraction.dir/lib/interpreter/PDFInterpreter.cpp.obj.d"
+  "CMakeFiles/TextExtraction.dir/lib/interpreter/PDFRecursiveInterpreter.cpp.obj"
+  "CMakeFiles/TextExtraction.dir/lib/interpreter/PDFRecursiveInterpreter.cpp.obj.d"
+  "CMakeFiles/TextExtraction.dir/lib/pdf-writer-enhancers/Bytes.cpp.obj"
+  "CMakeFiles/TextExtraction.dir/lib/pdf-writer-enhancers/Bytes.cpp.obj.d"
+  "CMakeFiles/TextExtraction.dir/lib/text-placements/TPCollectionState.cpp.obj"
+  "CMakeFiles/TextExtraction.dir/lib/text-placements/TPCollectionState.cpp.obj.d"
+  "CMakeFiles/TextExtraction.dir/lib/text-placements/TextPlacementsCollector.cpp.obj"
+  "CMakeFiles/TextExtraction.dir/lib/text-placements/TextPlacementsCollector.cpp.obj.d"
+  "CMakeFiles/TextExtraction.dir/lib/text-placements/Transformations.cpp.obj"
+  "CMakeFiles/TextExtraction.dir/lib/text-placements/Transformations.cpp.obj.d"
+  "CMakeFiles/TextExtraction.dir/qtextpdfextraction.cpp.obj"
+  "CMakeFiles/TextExtraction.dir/qtextpdfextraction.cpp.obj.d"
+  "libTextExtraction.dll"
+  "libTextExtraction.dll.a"
+  "libTextExtraction.dll.manifest"
+  "libTextExtraction.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/TextExtraction.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

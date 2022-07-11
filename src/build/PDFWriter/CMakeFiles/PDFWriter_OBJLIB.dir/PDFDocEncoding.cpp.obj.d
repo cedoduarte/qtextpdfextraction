@@ -1,0 +1,26 @@
+PDFWriter/CMakeFiles/PDFWriter_OBJLIB.dir/PDFDocEncoding.cpp.obj: \
+ C:\Users\carlo\Documents\SoftwareProjects\pdf-text-extraction\PDFWriter\PDFDocEncoding.cpp \
+ C:\Users\carlo\Documents\SoftwareProjects\pdf-text-extraction\PDFWriter\PDFDocEncoding.h \
+ C:\Users\carlo\Documents\SoftwareProjects\pdf-text-extraction\PDFWriter\IOBasicTypes.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/stdio.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/corecrt.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/swprintf.inl \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/utility \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/pstl_config.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_relops.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_pair.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/move.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/type_traits \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/initializer_list \
+ C:\Users\carlo\Documents\SoftwareProjects\pdf-text-extraction\PDFWriter\BetweenIncluding.h

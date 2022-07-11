@@ -1,0 +1,20 @@
+PDFWriter/CMakeFiles/PDFWriter_OBJLIB.dir/Timer.cpp.obj: \
+ C:\Users\carlo\Documents\SoftwareProjects\pdf-text-extraction\PDFWriter\Timer.cpp \
+ C:\Users\carlo\Documents\SoftwareProjects\pdf-text-extraction\PDFWriter\Timer.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ctime \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/pstl_config.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/corecrt.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/sys/timeb.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/_timeval.h \
+ C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/pthread_time.h
